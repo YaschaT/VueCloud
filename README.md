@@ -1,4 +1,4 @@
-# spotif
+# VueCloud
 
 ## Project setup
 ```
